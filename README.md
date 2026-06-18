@@ -15,11 +15,6 @@ memory, and deploy them so they keep working without me babysitting them.
 - Embedded systems and hardware projects from my Electrical Engineering work
 - Turning ideas into working software, fast
 
-### Featured projects
-- **[accountability-agent](https://github.com/alilok7/accountability-agent)** — a
-  proactive AI coach on Telegram. Runs 24/7, remembers what I commit to using
-  semantic memory (Postgres + pgvector), and messages me on its own every morning.
-- *Agentic job-search workflow* — coming soon.
 
 ### Reach me
 [LinkedIn](https://www.linkedin.com/in/aliasgar-lokhandwala-180b1736a/) · alilok7002@gmail.com
