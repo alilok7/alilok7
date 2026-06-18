@@ -13,7 +13,7 @@ memory, and deploy them so they keep working without me babysitting them.
 - Designing AI agents and automated workflows that handle real tasks end to end
 - Giving software long-term memory and retrieval
 - Embedded systems and hardware projects from my Electrical Engineering work
-- Turning ideas into working software, fast
+- Turning ideas into working software, fast and effectively
 
 
 ### Reach me
