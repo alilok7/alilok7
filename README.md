@@ -8,6 +8,14 @@ I started out using AI like everyone else, as a chatbot for quick questions. Ove
 the last few months I went a lot deeper, learning to design systems, give them
 memory, and deploy them so they keep working without me babysitting them.
 
+### Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [accountability-agent](https://github.com/alilok7/accountability-agent) | Proactive AI accountability coach on Telegram with long-term semantic memory | Python · Gemini · Postgres/pgvector |
+| [agentic-job-search](https://github.com/alilok7/agentic-job-search) | Profile-driven agentic job-search pipeline with LLM scoring and resume tailoring | Python · Gemini · APIs |
+| [nus-fire-evac-app](https://github.com/alilok7/nus-fire-evac-app) | Real-time GPS evacuation attendance system (hackathon MVP) | Next.js · React · Firebase |
+
 ### What I'm working on
 - Building and shipping full-stack applications and tools
 - Designing AI agents and automated workflows that handle real tasks end to end
